@@ -23,6 +23,8 @@
     let pen = true
     let apple = false
     let orange = true
+    let orange = true
+    let orange = true
 ```
 
 > Ответ поместите в переменную **shouldGoToWork**
